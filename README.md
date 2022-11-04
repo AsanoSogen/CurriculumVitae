@@ -54,16 +54,16 @@
 　--※JavaScriptによるフロント実装も兼任
 
 - PHP(FuelPHP) 約0.5年(2022/01 ~ 現在)
---某大手自動車流通サービス会社の基幹システムの保守(画面実装,一部Vue.jsを使用)：約半年
+--　某大手自動車流通サービス会社の基幹システムの保守(画面実装,一部Vue.jsを使用)：約半年
 
 - Node.js,TypeScript 約1.5年(2020/08 ~ 現在)
---社内勤怠管理(打刻)システムの実装(Express.js,Lambdaを用いたAPI開発,DynamoDBを使用) & 社内有給管理システムの設計・実装(GASとGoogleスプレッドシートで開発・管理)：約1年
---社内メールマガジン配信機能の開発(Serverless Framework,Amazon Pinpointを利用)：約0.5年
---slackとSaasを連携させる社内プロジェクト(AWS Lambda,AWS StepFunctionを利用) ：約0.5年
+--　社内勤怠管理(打刻)システムの実装(Express.js,Lambdaを用いたAPI開発,DynamoDBを使用) & 社内有給管理システムの設計・実装(GASとGoogleスプレッドシートで開発・管理)：約1年
+--　社内メールマガジン配信機能の開発(Serverless Framework,Amazon Pinpointを利用)：約0.5年
+--　slackとSaasを連携させる社内プロジェクト(AWS Lambda,AWS StepFunctionを利用) ：約0.5年
 
 - SQL・BIツールによる分析 約 1.5年(2020/09 ~ 2021/12)
---某大手燃料元売会社のデータ分析用データの作成：約1年
---Tableauを用いた分析用データの可視化分析：約0.5年
+--　某大手燃料元売会社のデータ分析用データの作成：約1年
+--　Tableauを用いた分析用データの可視化分析：約0.5年
 
 ※兼任していたプロジェクトがいくつか存在するため 1日当たり8時間 換算での年数とは異なります
 
