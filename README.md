@@ -64,7 +64,7 @@
   - 某大手自動車流通サービス会社の基幹システムの保守(画面実装,一部Vue.jsを使用)：約0.5年 <br>
 
 - Node.js,TypeScript 約1.5年(2020/08 ~ 現在) <br>
-  - 社内勤怠管理(打刻)システムの実装(Express.js,Lambdaを用いたAPI開発,DynamoDBを使用)：約0.5年 <br>
+  - 社内勤怠管理(打刻)システムの改修・実装(Express.js,Lambdaを用いたAPI開発,DynamoDBを使用)：約0.5年 <br>
   - 社内有給管理システムの設計・実装(GASとGoogleスプレッドシートで開発・管理)：約1年 <br>
   - 社内メールマガジン配信機能の開発(ServerlessFramework,AmazonPinpointを利用)：約0.5年 <br>
   - slackとSaasを連携させる社内プロジェクト(AWSLambda,AWSStepFunctionを利用) ：約0.5年 <br>
